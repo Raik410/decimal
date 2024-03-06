@@ -2,13 +2,13 @@
 
 This is my project that allows you use the decimal type in C, this library also contains many methods.
 
-For build library use :)
+For build library use
 
-From Raiki410
-
-```
+```C
 make // in src folder
 ```
+
+From Raiki410 :)
 
 Implementation of your own s21_decimal.h library.
 
