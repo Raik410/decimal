@@ -1,11 +1,16 @@
 # s21_decimal 
 
-> При старте работы над проектом просим вас постараться хронометрировать время работы над проектом.
-> По завершении работы над проектом просим вас ответить на два вопроса [в этом опросе](https://forms.gle/PFAxFfM4GJuQU1x59)
+This is my project that allows you use the decimal type in C, this library also contains many methods.
+
+For build library use :)
+
+From Raiki410
+
+```
+make // in src folder
+```
 
 Implementation of your own s21_decimal.h library.
-
-The russian version of the task can be found in the repository.
 
 
 ## Contents
@@ -182,4 +187,3 @@ The functions of the decimal.h library described [above](#information) must be i
 - Trailing zeros can be as preserved as deleted (except for the `s21_truncate` function)
 - The defined type must support numbers from -79,228,162,514,264,337,593,543,950,335 to +79,228,162,514,264,337,593,543,950,335.
 
-💡[ Tap here](https://forms.yandex.ru/cloud/641813ff73cee70b89478991/) **to leave your feedback on the project**. Pedago Team really tries to make your educational experience better.
